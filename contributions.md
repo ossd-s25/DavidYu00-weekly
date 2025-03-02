@@ -22,6 +22,8 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3  | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)    | Wikipedia edit    |   Fixed a few grammatical errors.  |
-| Feb 10 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)    | Wikipedia edit    |   Fixed some grammatical errors.   |
-| March 2| [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)    | Wikipedia edit    |   Added reference to an article.   |
+| Feb 3   | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed a few grammatical errors.  |
+| Feb 10  | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed some grammatical errors.   |
+| March 2 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Added reference to an article.   |
+| March 2 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed some grammatical errors.   |
+
