@@ -26,4 +26,10 @@ Replace the first row with your own contribution.
 | Feb 10  | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed some grammatical errors.   |
 | March 2 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Added reference to an article.   |
 | March 2 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed some grammatical errors.   |
+| March 2 | [wikipedia contribution](https://en.wikipedia.org/wiki/Special:Contributions/YujaCha)   | Wikipedia edit  |   Fixed some grammatical errors.   |
+| March 5 | [autogen](https://github.com/microsoft/autogen/issues/5609)   | claimed issue  |   Claimed issue   |
+| March 8 | [autogen](https://github.com/microsoft/autogen/pull/5878)   | created pull request  |   Fixed issue and submitted pull request   |
+| March 8 | [autogen](https://github.com/microsoft/autogen/pull/5878)   | created pull request  |   Fixed issue and submitted pull request   |
+| March 17 | [autogen](https://github.com/microsoft/autogen/issues/5345)   | claimed issue  |   Claimed issue   |
+
 
